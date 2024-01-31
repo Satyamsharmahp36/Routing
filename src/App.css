@@ -1,0 +1,43 @@
+
+
+/* #NavBar{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  top: 10px;
+} 
+
+*/
+
+*{
+  text-decoration: none;
+  padding: 0px;
+  margin: 0px;
+  color: white;
+ 
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  padding: 20px; 
+  align-items: center;
+}
+
+.About{
+  padding: 4px;
+}
+
+#home{
+  font-size: 2vw;
+}
+
+.data{
+  color: black;
+  position: fixed;
+  top: 10vw;
+  left: 46%;
+  font-size: 50px;
+}
